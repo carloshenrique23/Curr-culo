@@ -1,0 +1,77 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;/*um estilo de fonte*/
+    background-color: #effcf4;/*Define um cor de fundo*/
+    color: black; /* Adicionei uma cor de texto padrão para garantir visibilidade */
+}
+
+.cab {
+    background-color: #00002f;/*uma cor cabeçalho diferente pra chamar atenção*/
+    color: #000008; /* Corrigido para uma cor clara que contrasta com o fundo escuro */
+    height: auto; /* para altura automática */
+    text-align: center; /* Ajustado para centralizar o texto */
+}
+
+#nome {
+    font-size: 50px; /*um tamanho bom pra ter visibilidade*/
+    color: white;/*um cor pra da o destaque*/
+}
+
+img {
+    height: 300px;/*mexer com altura*/
+    width: 15%;/*largura da imagem*/
+    margin-left: 10px;/*posicionar a imagem*/
+    border: 4px solid #f8f8f8;/*bordas da imagem*/
+}
+
+h2 {
+    color: #340c0a;/*cor de cada titulo*/
+    font-size: 40px;/*tamanho da fonte dos titulo*/
+}
+
+p {
+    color: #190d11;/*cor dos paragrafo*/
+    font-size: 20px; /* tamanho da fonte dos paragrafos */
+}
+
+a {
+    text-decoration: none;/*tirar a sublinhação dos links*/
+    color: rgb(241, 243, 244);/*cores dos links*/
+}
+
+form {
+    background-color: #00002f;
+    height: auto;
+    text-align: center;
+}
+
+input {
+    width: 400px;
+    height: 34px;
+}
+
+textarea {
+    width: 400px;
+    height: 100px;
+}
+
+button {
+    border: 1px solid white; /* Corrigido para incluir largura e estilo da borda */
+    background-color: #0c1be7;
+    color: aliceblue;
+    width: 200px;
+    height: 50px;
+}
+
+footer {
+    margin: 0px;
+    background-color: #00002f;
+    text-align: center;
+    height: 125px;
+    font-size: 20px; /* Ajustado para melhor visualização */
+    color: aliceblue; /* Adicionado para garantir contraste */
+}
+
+#home{
+    color: #ffffff;
+}
+
